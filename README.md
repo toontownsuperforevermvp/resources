@@ -1,4 +1,4 @@
-includes project bikehorn textures, credit to toonjoey: https://github.com/toonjoey/toontown-project-bikehorn
+These resources contain Project Bikehorn by Toonjoey: https://github.com/toonjoey/toontown-project-bikehorn
 
 
 Toontown Online Resources
